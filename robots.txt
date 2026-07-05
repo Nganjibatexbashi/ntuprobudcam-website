@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /config/
+Disallow: /database/
+Disallow: /assets/css/
+Disallow: /assets/js/
+Disallow: /uploads/
+
+Sitemap: https://tuprobudcam.org/sitemap.xml

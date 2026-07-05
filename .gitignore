@@ -1,0 +1,42 @@
+# XAMPP specific
+config/database.php
+
+# Vendor directory
+/vendor/
+
+# Node modules
+/node_modules/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Upload directories
+/uploads/*
+!/uploads/.gitkeep
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+
+# Cache
+/cache/
+/tmp/
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Composer
+composer.lock
